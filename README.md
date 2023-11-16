@@ -1,5 +1,5 @@
 # Modelling-Thermodynamics
-In this project, I modelled a ternary mixture of benzene, cyclohexane and acetone. The project involved using an activity coefficient model to predict vapour liquid equilibrium of the mixture. In particular, for each composition, I was tasked with modelling the temperature at which the bubble point occurs. This requiers using the solve function, and is hence quite computationally expensive.
+In this project, I modelled a ternary mixture of benzene, cyclohexane and acetone. The project involved using an activity coefficient model to predict vapour liquid equilibrium of the mixture. In particular, for each composition, I was tasked with modelling the temperature at which the bubble point occurs. This requires using the solve function, and is hence quite computationally expensive.
 
 These values are then saved in a matrix. This is then plotted in 3D dimensions, so that an engineer can understand the behaviour of the system easily. Additionally, azeotropes were identified by finding where the vapour and liquid compositions are the same.
 
